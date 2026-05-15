@@ -1,5 +1,2 @@
 .idea
 .DS_Store
-
-# build artifacts — too large for git, ship via GitHub Releases
-builds/
